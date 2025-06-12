@@ -1,7 +1,7 @@
 # 👋 Hi there! I’m Norlyn Angel
 
 - 👀 I’m interested in software development, tech innovation, and creative digital projects.
-- 🌱 I’m currently learning Python, web development, and computer engineering-related topics.
+- 🌱 I just recently created this GitHub account, so I haven’t uploaded my past projects yet — but I’m excited to start sharing soon!
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects or anything involving automation, IoT, or app development.
 - 📫 How to reach me: [Email me](mailto: norlynsaringan@gmail.com)
 - 😄 Pronouns: she/her
